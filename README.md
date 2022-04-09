@@ -1,4 +1,4 @@
-## olá eu sou o versace, e sou estudante de Segurança da Informação e Developer.
+## Olá! Meu nickname é Versace, tenho 18 anos e sou estudante de Segurança da Informação e Developer.
 <div align="center">
   <a href="https://github.com/versacedev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=versace&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
