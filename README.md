@@ -21,7 +21,7 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UCDz4vNuc1UwHV5INzGBraNQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ 
 
  
   ![Snake animation](https://raw.githubusercontent.com/rafaballerini/rafaballerini/a7fcec19b2830125e9c49ba9139a9dad95f0b64a/github-contribution-grid-snake.svg)
